@@ -8,5 +8,5 @@ maintainers:
   name: abc-haha
 name: sp-support
 sources:
-- docker pull registry.ebanma.com/public/sp-support:daily-20180412_163548-8c7658b5f1b9b23a89e1ba6e613cbb72
-version: 0.4.0
+- https://registry.ebanma.com/public/sp-support
+version: 0.5.0
