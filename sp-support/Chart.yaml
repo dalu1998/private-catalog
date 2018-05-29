@@ -1,12 +1,12 @@
 apiVersion: v1
 appVersion: 2.6.2
-description: A Helm chart for Docker Registry
+description: A Helm chart for sp-support
 home: https://registry.ebanma.com
 icon: https://hub.docker.com/public/images/logos/mini-logo.svg
 maintainers:
 - email: abc@126.com
   name: abc-haha
-name: docker-registry
+name: sp-support
 sources:
 - https://github.com/docker/gistribution-library-images
 version: 0.3.0
