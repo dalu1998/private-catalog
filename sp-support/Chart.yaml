@@ -8,5 +8,5 @@ maintainers:
   name: abc-haha
 name: sp-support
 sources:
-- https://github.com/docker/gistribution-library-images
-version: 0.3.0
+- https://registry.ebanma.com
+version: 5.1
